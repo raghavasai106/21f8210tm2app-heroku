@@ -1,1 +1,1 @@
-web: gunicorn geartracker.wsgi
+web: gunicorn mah_maintenance_app.wsgi
